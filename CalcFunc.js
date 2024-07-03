@@ -16,6 +16,14 @@ function Multiply(Num1, Num2){
 }
 
 function Divide(Num1, Num2){
-    Answer = Num1 % Num2;
+    Answer = Num1 / Num2;
     console.log(Answer);
 }
+
+Add(Num1, Num2);
+
+Subtract(Num1, Num2);
+
+Multiply(Num1, Num2);
+
+Divide(Num1, Num2);
