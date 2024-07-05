@@ -1,5 +1,6 @@
-var Num1 = prompt("Please Enter a Number!");
-var Num2 = prompt("Please enter another number.");
+var Num1;
+var Num2;
+let Operator;  
 function Add(Num1, Num2){
  Answer = Num1 + Num2;
  console.log(Answer);
