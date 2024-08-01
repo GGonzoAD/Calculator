@@ -9,3 +9,18 @@
     justify-content: center;
     align-items: center;
 }
+.screen{
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+.screen p{
+ width: 100%;
+ font-size:3.5rem;
+ text-align: end;
+ background: transparent;
+ color: #fff;
+ border: none;
+ outline: none;
+ word-wrap: break-word;
+ word-break:break-all;
+}
